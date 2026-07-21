@@ -15,3 +15,8 @@ footer {
 body {
 	grid-template-columns: 1fr minmax(auto, 80ch) 1fr;
 }
+
+.time-list__date {
+	font-size: 0.8em;
+	opacity: 70%;
+}
