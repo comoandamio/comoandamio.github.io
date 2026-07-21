@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Blogs n Blobs</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Blogs n Blobs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 19 Jul 2026 09:41:26 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Arrancando de nuevo</title>
+				<link>http://localhost:1313/posts/2026/arrancandoagain/</link>
+				<pubDate>Sun, 19 Jul 2026 09:41:26 -0300</pubDate>
+				<guid>http://localhost:1313/posts/2026/arrancandoagain/</guid>
+				<description>&lt;p&gt;Es la tercera, o cuarta vez que vuelvo con la idea de tener mi propio blog, si bien es una decisión simple, me costó un perú decidir si hostearlo yo, o que lo hostee Bearblog.&lt;/p&gt;&#xA;&lt;p&gt;Entre las dos opciones, las dos son válidas, Bearblog tiene eso de comunidad pero a la vez yo tengo el poder, hago lo que quiero a decir verdad, y creo que eso va un poco más en línea con lo que quiero.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Instalando AntiX Linux</title>
+				<link>http://localhost:1313/posts/2026/instalandoantix/</link>
+				<pubDate>Mon, 06 Apr 2026 16:40:44 -0300</pubDate>
+				<guid>http://localhost:1313/posts/2026/instalandoantix/</guid>
+				<description>&lt;p&gt;Sábado, mates sin azúcar y una Lenovo negra sobre la mesa. Un Windows 7 traicionado por su propia gestión de recursos, y un disco mecánico de 500GB contra una distribución de Linux ligera, simple y eficaz, lista para ser instalada mediante un pen drive con Ventoy.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;h1 id=&#34;la-instalación&#34;&gt;&#xA;  La instalación&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Fue un proceso bastante cómodo, incluso si no estás dentro del mundo de las distribuciones. Es bastante amigable con el usuario, su interfaz se divide en dos, una parte  te da instrucciones y recomendaciones mientras que la otra parte te muestra el paso en el que estás. Simplificando bastante, el instalador te pregunta cuál es el disco donde instalar, elegir locales, e información para crear el usuario. Na más. Fue un proceso rápido y sin inconvenientes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Diego</title>
+				<link>http://localhost:1313/posts/2023/diego/</link>
+				<pubDate>Mon, 23 Oct 2023 20:05:48 -0300</pubDate>
+				<guid>http://localhost:1313/posts/2023/diego/</guid>
+				<description>&lt;p&gt;Diego es mi nombre; recuerdo a mi mamá diciendo que nunca me olvide de eso. A veces siento que no soy Diego, sino más bien Lucas. Lucas escucha voces en su cabeza que le dicen que no es ni Lucas ni Diego. Cuando me siento Diego, ignoro lo que Lucas dice, aunque muchas veces tiene razón.&lt;/p&gt;&#xA;&lt;p&gt;Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba, o que un sonido solo se produce si alguien está dispuesto a escucharlo. No creo que Lucas esté bien, pero él nunca pide ayuda. También recuerdo la vez que me susurró que saltara del balcón del hotel en Mar del Plata, era chico y, claro, no le hice caso.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
